@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 450,
+  "totalCases": 453,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,74 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 456,
+      "title": "历史事件 2x2 可视化地图",
+      "image": "/images/case456.jpg",
+      "imageAlt": "历史事件 2x2 可视化地图",
+      "sourceLabel": "@Gdgtify",
+      "sourceUrl": "https://x.com/Gdgtify/status/2057277698607599692",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous historical events:\n\nRender_Target =\n  ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )\n  + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )\n  + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )\n  + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )\n  - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )\n  - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )\n  - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )",
+      "promptPreview": "2x2 grid, 16:9, do this for 4 famous historical events: Render_Target =   ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )   + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )   + ( Pe",
+      "category": "Charts & Infographics",
+      "styles": [
+        "UI",
+        "Infographic",
+        "Classical"
+      ],
+      "scenes": [
+        "Commerce",
+        "Travel",
+        "History"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-456"
+    },
+    {
+      "id": 455,
+      "title": "巨型舒适洞洞鞋 Campaign",
+      "image": "/images/case455.jpg",
+      "imageAlt": "巨型舒适洞洞鞋 Campaign",
+      "sourceLabel": "@iamaiistudio",
+      "sourceUrl": "https://x.com/iamaiistudio/status/2057281549851377866",
+      "prompt": "Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.\n\nBackdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading \"STEP INTO EASE\" stretched vertically, partially tucked behind the subject.\n\nLighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.\n\nComposition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.\n\nSmall minimal copy at the bottom: \"Designed for all-day comfort. Made to move with you.\"\n\nStyle: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.",
+      "promptPreview": "Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the",
+      "category": "Products & E-commerce",
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-455"
+    },
+    {
+      "id": 454,
+      "title": "旅行美食薯片广告海报",
+      "image": "/images/case454.jpg",
+      "imageAlt": "旅行美食薯片广告海报",
+      "sourceLabel": "@Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2057282710469767241",
+      "prompt": "Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.\n\nA cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].\n\nFloating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.\n\nInclude only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:\n- taking photos\n- exploring landmarks\n- sitting on floating chips\n- riding local transport\n- observing scenery\n- walking through the swirl paths\n\nInclude authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].\n\nBackground should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.\n\nElegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.\n\nComposition rules:\n- one dominant centered chips packet\n- floating ridged potato chips throughout composition\n- one continuous upward spiral motion\n- landmarks layered vertically\n- miniature people sparse and intentional\n- no duplicate landmarks\n- no overcrowding\n- clean premium hierarchy\n- cinematic storytelling through scale contrast\n- premium advertising composition matching high-end chips commercials",
+      "promptPreview": "Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero ob",
+      "category": "Products & E-commerce",
+      "styles": [
+        "Poster",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-454"
+    },
     {
       "id": 453,
       "title": "企业级商用画册视觉系统",

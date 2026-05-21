@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 453。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 456。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-453](./gallery-part-2.md)
+- [Part 2：例 166-456](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -121,18 +121,21 @@
 - [例 451：韩国海滩日落时尚人像](./gallery-part-2.md#case-451)
 - [例 452：极简童话手绘儿童插画](./gallery-part-2.md#case-452)
 - [例 453：企业级商用画册视觉系统](./gallery-part-2.md#case-453)
+- [例 454：旅行美食薯片广告海报](./gallery-part-2.md#case-454)
+- [例 455：巨型舒适洞洞鞋 Campaign](./gallery-part-2.md#case-455)
+- [例 456：历史事件 2x2 可视化地图](./gallery-part-2.md#case-456)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-453，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-456，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
 - UI与界面：73
-- 图表与信息可视化：47
+- 图表与信息可视化：48
 - 海报与排版：71
-- 商品与电商：32
+- 商品与电商：34
 - 品牌与标志：22
 - 建筑与空间：11
 - 摄影与写实：57
@@ -217,7 +220,7 @@
 
 <a name="cat-infographic"></a>
 
-### 📊 图表与信息可视化 · 47 cases
+### 📊 图表与信息可视化 · 48 cases
 
 - [例 8：科普百科图](./gallery-part-1.md#case-8)
 - [例 14：信息图可视化设计](./gallery-part-1.md#case-14)
@@ -266,6 +269,7 @@
 - [例 407：Neuro-AI 混合系统信息图](./gallery-part-2.md#case-407)
 - [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
 - [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
+- [例 456：历史事件 2x2 可视化地图](./gallery-part-2.md#case-456)
 
 <a name="cat-poster"></a>
 
@@ -344,7 +348,7 @@
 
 <a name="cat-product"></a>
 
-### 🛍️ 商品与电商 · 32 cases
+### 🛍️ 商品与电商 · 34 cases
 
 - [例 17：界面交互设计图](./gallery-part-1.md#case-17)
 - [例 33：电商商品展示设计](./gallery-part-1.md#case-33)
@@ -377,6 +381,8 @@
 - [例 438：珠宝微缩城市广告海报](./gallery-part-2.md#case-438)
 - [例 441：WILDCAMP 巨型帐篷广告海报](./gallery-part-2.md#case-441)
 - [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
+- [例 454：旅行美食薯片广告海报](./gallery-part-2.md#case-454)
+- [例 455：巨型舒适洞洞鞋 Campaign](./gallery-part-2.md#case-455)
 
 <a name="cat-brand"></a>
 

@@ -9362,3 +9362,100 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 ```
 
 ***
+
+<a name="case-454"></a>
+
+### 例 454：旅行美食薯片广告海报
+
+![旅行美食薯片广告海报](../data/images/case454.jpg)
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+
+**提示词：**
+
+```text
+Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
+
+A cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].
+
+Floating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.
+
+Include only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:
+- taking photos
+- exploring landmarks
+- sitting on floating chips
+- riding local transport
+- observing scenery
+- walking through the swirl paths
+
+Include authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].
+
+Background should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.
+
+Elegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.
+
+Composition rules:
+- one dominant centered chips packet
+- floating ridged potato chips throughout composition
+- one continuous upward spiral motion
+- landmarks layered vertically
+- miniature people sparse and intentional
+- no duplicate landmarks
+- no overcrowding
+- clean premium hierarchy
+- cinematic storytelling through scale contrast
+- premium advertising composition matching high-end chips commercials
+```
+
+***
+
+<a name="case-455"></a>
+
+### 例 455：巨型舒适洞洞鞋 Campaign
+
+![巨型舒适洞洞鞋 Campaign](../data/images/case455.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
+
+**提示词：**
+
+```text
+Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
+
+Backdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading "STEP INTO EASE" stretched vertically, partially tucked behind the subject.
+
+Lighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.
+
+Composition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.
+
+Small minimal copy at the bottom: "Designed for all-day comfort. Made to move with you."
+
+Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.
+```
+
+***
+
+<a name="case-456"></a>
+
+### 例 456：历史事件 2x2 可视化地图
+
+![历史事件 2x2 可视化地图](../data/images/case456.jpg)
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+
+**提示词：**
+
+```text
+2x2 grid, 16:9, do this for 4 famous historical events:
+
+Render_Target =
+  ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )
+  + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )
+  + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )
+  + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )
+  - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )
+  - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
+  - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+***
